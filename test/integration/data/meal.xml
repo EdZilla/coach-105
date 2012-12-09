@@ -1,0 +1,6 @@
+<meal name='Dinner at Beu Jo&apos;s' date='2008-02-10 18:27:00.0' description='Had a Pacific Plantation pizza and a diet coke. Ate half and took rest home.' cost='25.0'> 
+	<foods> 
+		<food name='Pepperoni Pizza Slice' description='description of Pepparoni Pizza' cost='2.98' /> 
+		<food name='Cheese Pizza Slice' description='description of Cheese Pizza' cost='2.68' /> 
+	</foods> 
+</meal>

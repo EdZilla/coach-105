@@ -1,0 +1,7 @@
+<workout name='Gym workout, hacky sack session' description='sack, situps, assisted dips' date='' duration='' calories='' course=''>
+  <exercises>
+    <exercise name='ab machine' description='simple hinged machine isolates upper abs' avgSpeed='' maxSpeed='' avgHeartRate='' maxHeartRate='' reps='' sets='' seconds='' calories='' />
+    <exercise name='hacky sack session' description='solo' avgSpeed='' maxSpeed='' avgHeartRate='' maxHeartRate='' reps='' sets='' seconds='' calories='' />
+    <exercise name='assisted dip' description='dips. 10 ea. in various hand positions' avgSpeed='' maxSpeed='' avgHeartRate='' maxHeartRate='' reps='' sets='' seconds='' calories='' />
+  </exercises>
+</workout>
