@@ -7,3 +7,6 @@ here is beckwith's migration docs:
 http://grails-plugins.github.com/grails-spring-security-core/docs/manual/guide/3%20Migrating%20from%20the%20Acegi%20Plugin.html
 
 See upgradeExp branch for that work. 
+
+Courses and equipment tables seem to be ok with coach_acegi2_prod-12-9-2012.sql
+
