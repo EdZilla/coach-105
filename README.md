@@ -1,7 +1,6 @@
 The master branch has grails 1.0.5 and works when run from command line. 12-9-2012 
 
-
-the branch upgradeExp is an attempt to upgrade from grails 1.0.5 to 1.2.x or beyond. 
+The branch upgradeExp is an attempt to upgrade from grails 1.0.5 to 1.2.x or beyond. 
 
 This involves substantial acegi to SpringSecurity upgrade. 
 
