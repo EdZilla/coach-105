@@ -1,0 +1,6 @@
+GRAILS_HOME=/opt/comcast/software/grails/grails-1.0.5
+
+
+PATH=/usr/local/bin:$SVN_HOME/bin:$GIT_HOME/bin:$JAVA_HOME/bin:$GRAILS_HOME/bin:$HOME/bin:$MVN_HOME/bin:$PATH:$JMETER_HOME/bin:$MYSQL_HOME/bin:$FIREFOX_HOME:$CHROME_DRIVER_HOME:$ANDROID_HOME/tools:$ANDROID_HOME/platform-tools:$MAHOUT_HOME/bin:$DATOMIC_HOME/bin:$FFMPEG:
+                                                                                                                                        
+export PATH JAVA_HOME MVN_HOME MYSQL_HOME GRADLE_OPTS ANDROID_HOME MAHOUT_HOME DATOMIC_HOME FFMPEG GRAILS_HOME
