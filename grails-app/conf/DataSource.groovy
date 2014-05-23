@@ -24,7 +24,7 @@ environments {
             driverClassName = "com.mysql.jdbc.Driver"
             username = "ejy"
             password = "gr00vy"
-            url = "jdbc:mysql://localhost/coach"
+            url = "jdbc:mysql://localhost/coach_105"
 						
             //url = "jdbc:hsqldb:mem:testDb"
         }
